@@ -7,7 +7,7 @@ flake8-per-file-ignores
 mock
 pytest
 pytest-asyncio
-pytest-cov
+pytest-cov==2.5.1
 pytest-mock
 tox
 virtualenv
