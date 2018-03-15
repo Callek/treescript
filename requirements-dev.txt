@@ -1,2 +1,2 @@
 scriptworker
-taskcluster
+taskcluster==2.1.3
