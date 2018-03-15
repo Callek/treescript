@@ -9,5 +9,5 @@ pytest
 pytest-asyncio
 pytest-cov
 pytest-mock
-tox
+tox==2.9.1
 virtualenv
