@@ -5,7 +5,7 @@ flake8
 flake8_docstrings
 flake8-per-file-ignores
 mock
-pytest
+pytest==3.5.0
 pytest-asyncio
 pytest-cov
 pytest-mock
