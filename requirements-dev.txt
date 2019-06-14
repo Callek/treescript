@@ -1,2 +1,2 @@
-scriptworker
+scriptworker==11.1.0
 taskcluster
