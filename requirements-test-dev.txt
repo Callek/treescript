@@ -10,4 +10,4 @@ pytest-asyncio
 pytest-cov
 pytest-mock
 tox
-virtualenv
+virtualenv==15.2.0
